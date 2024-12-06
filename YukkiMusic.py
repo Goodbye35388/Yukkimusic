@@ -1350,7 +1350,7 @@ async def git_repo_link(client, message):
             [
                 InlineKeyboardButton(
                     text="💫 ʀᴇᴘᴏꜱɪᴛᴏʀʏ ❤️",
-                    url="https://github.com/Badhacker98/YukkiMusic/fork",
+                    url="https://github.com/LEGENDMICKEY/YukkiMusic/fork",
                 )
             ],
             [
