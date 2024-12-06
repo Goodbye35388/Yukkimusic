@@ -361,7 +361,7 @@ async def start_message_private(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/II_BAD_BABY_II)
+│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/LEGEND_MICKEY)
 ╰───────────────────⦿"""
         buttons = InlineKeyboardMarkup(
             [
@@ -372,8 +372,8 @@ async def start_message_private(client, message):
                     )
                 ],
                 [
-            InlineKeyboardButton(text="❍ᴡɴᴇꝛ", url="https://t.me/II_BAD_BABY_II"),
-            InlineKeyboardButton(text="ᴜᴘᴅᴧᴛᴇ", url="https://t.me/HEROKUBIN_01"),
+            InlineKeyboardButton(text="❍ᴡɴᴇꝛ", url="https://t.me/LEGEND_MICKEY"),
+            InlineKeyboardButton(text="ᴜᴘᴅᴧᴛᴇ", url="https://t.me/THE_INCRICIBLE"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -494,7 +494,7 @@ async def back_to_home_menu(client, query):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/II_BAD_BABY_II)
+│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/LEGEND_MICKEY)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -809,6 +809,8 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Nᴀᴍᴇ:** {chat_name}
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}"""
+
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/The_incricible)**"""            
             try:
                 await bot.send_photo(LOG_GROUP_ID, photo=thumbnail, caption=caption)
             except Exception:
