@@ -810,7 +810,7 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}"""
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/The_incricible)**"""            
+            
             try:
                 await bot.send_photo(LOG_GROUP_ID, photo=thumbnail, caption=caption)
             except Exception:
@@ -870,6 +870,8 @@ async def change_stream(chat_id):
 ❍ Dᴜʀᴀᴛɪᴏɴ ➥  {duration}
 ❍ Sᴛʀᴇᴀᴍ Tʏᴘᴇ ➥  {stream_type}
 ❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥  {requested_by}"""
+
+ ❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @LEGEND_MICKEY"""   
     buttons = InlineKeyboardMarkup(
         [
             [
