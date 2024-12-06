@@ -870,8 +870,7 @@ async def change_stream(chat_id):
 ❍ Dᴜʀᴀᴛɪᴏɴ ➥  {duration}
 ❍ Sᴛʀᴇᴀᴍ Tʏᴘᴇ ➥  {stream_type}
 ❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥  {requested_by}"""
-
- ❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @LEGEND_MICKEY"   
+    
     buttons = InlineKeyboardMarkup(
         [
             [
